@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Contains traces of opinion",
+	"icon": "https://micro.blog/senki/avatar.jpg",
+	"home_page_url": "https://blog.senki.xyz/",
+	"feed_url": "https://blog.senki.xyz/feed.json",
+	"items": [
+		
+	]
+}
